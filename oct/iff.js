@@ -7,4 +7,4 @@ function simple(age) {
         console.log('you are not eligible');
     }
 }
-simple(17)
+simple(18)
